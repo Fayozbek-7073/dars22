@@ -1,0 +1,16 @@
+.box{
+    width: 900px;
+    height: 1200px;
+    background-image: url(./blooming-lavender-field-sprigs-closeup-260nw-2473048013.webp);
+    border: solid 2px;
+    margin: 250px 200px;
+}
+
+.box-shadow{
+    width: 800px;
+    height: 300px;
+    border: solid 2px;
+    margin: 0px 400px;
+    box-shadow: 0px 2px 9px 12px red;
+    border-radius: 50%;
+}
